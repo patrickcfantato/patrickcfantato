@@ -1,9 +1,8 @@
 <div align="center">
-<h1 style="text-align: center;margin-bottom: 5px;">Hey, I'm Patrick<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
+<h1 style="text-align: center;margin-bottom: 5px;">Senior Software Engineer | JavaScript, TypeScript, NodeJS, ReactJS, Java</h1>
 <a href="https://github.com/patrickcfantato" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?logo=github&style=flat-square" alt="github"/></a>
 <a href="https://www.linkedin.com/in/patrickcfantato" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
 <a href="mailto:patrickcfantato@gmail.com"><img src="https://img.shields.io/badge/-E--mail-white?logo=gmail&style=flat-square" alt="email"/></a>
-<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Senior Software Engineer | JavaScript, TypeScript, NodeJS, ReactJS, Java</h3>
 
 Performance-focused, responsible, and committed developer with nearly a decade of experience in designing, implementing, testing, and delivering complex front-end and back-end software using multiple programming languages and technologies
 
