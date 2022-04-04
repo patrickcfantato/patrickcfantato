@@ -1,5 +1,6 @@
 <div align="center">
-<h1 style="text-align: center;margin-bottom: 5px;">Senior Software Engineer | JavaScript, TypeScript, NodeJS, ReactJS, Java</h1>
+<h1 style="text-align: center;margin-bottom: 5px;">Senior Software Engineer <br/>
+  <small>JavaScript, TypeScript, NodeJS, ReactJS, Java</small></h1>
 <a href="https://github.com/patrickcfantato" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?logo=github&style=flat-square" alt="github"/></a>
 <a href="https://www.linkedin.com/in/patrickfantato" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
 <a href="mailto:patrickcfantato@gmail.com"><img src="https://img.shields.io/badge/-E--mail-white?logo=gmail&style=flat-square" alt="email"/></a>
@@ -94,7 +95,7 @@ Performance-focused, responsible, and committed developer with nearly a decade o
 <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/-ubuntu-white?logo=ubuntu&logoColor=E95420&style=for-the-badge" alt="ubuntu"/></a>
 <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/-Alpine_Linux-white?logo=alpinelinux&logoColor=0D597F&style=for-the-badge" alt="ubuntu"/></a>
 
-[![](https://github-readme-stats.vercel.app/api?username=patrickcfantato&show_icons=true&theme=nightowl&hide_border=true&locale=en)](https://github.com/patrickcfantato)
+[![](https://github-readme-stats.vercel.app/api?username=pfantato94&show_icons=true&theme=nightowl&hide_border=true&locale=en)](https://github.com/patrickcfantato)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=patrickcfantato&theme=nightowl&hide_border=true)](https://github.com/patrickcfantato)
 
 <div align="center">
